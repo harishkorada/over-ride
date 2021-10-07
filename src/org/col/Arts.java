@@ -20,7 +20,9 @@ public class Arts  extends Education {
 
 	}
 	private void bsc() {
-		System.out.println("in arts bsc course aviable");
+		System.out.println("ag");
+		System.out.println("pardha");
+		System.out.println("raju");
 
 	}
 	public static void main(String[] args) {
